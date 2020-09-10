@@ -1,0 +1,36 @@
+{
+  "name": "@ngui/auto-complete",
+  "version": "3.0.0",
+  "description": "Angular Input Autocomplete",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng2-ui/auto-complete.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ng2-ui/auto-complete/issues"
+  },
+  "homepage": "https://github.com/ng2-ui/auto-complete#readme",
+  "keywords": [
+    "angular",
+    "auto-complete",
+    "input",
+    "select"
+  ],
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.0.1",
+    "@angular/core": "^9.0.1"
+  },
+  "main": "bundles/ngui-auto-complete.umd.js",
+  "module": "fesm2015/ngui-auto-complete.js",
+  "es2015": "fesm2015/ngui-auto-complete.js",
+  "esm2015": "esm2015/ngui-auto-complete.js",
+  "fesm2015": "fesm2015/ngui-auto-complete.js",
+  "typings": "ngui-auto-complete.d.ts",
+  "metadata": "ngui-auto-complete.metadata.json",
+  "sideEffects": false
+}

@@ -1,0 +1,8 @@
+/*
+ * Public API Surface of auto-complete
+ */
+export * from './lib/auto-complete.service';
+export * from './lib/auto-complete.component';
+export * from './lib/auto-complete.directive';
+export * from './lib/auto-complete.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2F1dG8tY29tcGxldGUvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDZCQUE2QixDQUFDO0FBQzVDLGNBQWMsK0JBQStCLENBQUM7QUFDOUMsY0FBYywrQkFBK0IsQ0FBQztBQUM5QyxjQUFjLDRCQUE0QixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBhdXRvLWNvbXBsZXRlXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvYXV0by1jb21wbGV0ZS5zZXJ2aWNlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2F1dG8tY29tcGxldGUuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2F1dG8tY29tcGxldGUuZGlyZWN0aXZlJztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2F1dG8tY29tcGxldGUubW9kdWxlJztcbiJdfQ==
