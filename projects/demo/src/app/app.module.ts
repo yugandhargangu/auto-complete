@@ -6,11 +6,11 @@ import { HttpClientModule } from '@angular/common/http';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 
-import { NguiAutoCompleteModule } from 'auto-complete';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ComponentTestComponent } from './component-test/component-test.component';
 import { DirectiveTestComponent } from './directive-test/directive-test.component';
+import { NguiAutoCompleteModule } from 'projects/auto-complete/src/public-api';
 
 @NgModule({
   declarations: [
